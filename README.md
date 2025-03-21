@@ -69,9 +69,6 @@ Pull requests are welcome! If you’d like to contribute, follow these steps:
 4. 🚀 Push to the branch (`git push origin feature-branch`).
 5. 🔄 Create a pull request.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 📧 Contact
-For any questions or feedback, feel free to reach out via [your email] 📩 or open an issue on GitHub 🐙.
+For any questions or feedback, feel free to reach out via [sarjan.iitism@gmail.com] 📩 or open an issue on GitHub 🐙.
 
